@@ -1,0 +1,6 @@
+einops 
+timm 
+thop 
+fvcore
+plotly
+yapf==0.40.1

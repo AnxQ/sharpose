@@ -57,7 +57,7 @@ pip install -r requirements.txt
 - Download and extract MPII following [this](https://mmpose.readthedocs.io/en/0.x/tasks/2d_body_keypoint.html#mpii), with the root directory replaced by sharpose.
 
 ### 4. Checkpoints
-Download checkpoints from [Onedrive](https://1drv.ms/f/s!As3g2ozBLMgFjuEiJScKZ9fGZo1FOw?e=ROQTfa), this link includes following files:
+Download checkpoints from [Onedrive](https://1drv.ms/f/c/05c82cc18cdae0cd/Qs3g2ozBLMgggAWisAMAAAAAJScKZ9fGZo1FOw), this link includes following files:
 - MAE pretrained checkpoints provided by [MAE](https://github.com/facebookresearch/mae) and [ViTPose](https://github.com/ViTAE-Transformer/ViTPose).
 - Well-trained SHaRPose checkpoints.
 
